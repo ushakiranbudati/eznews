@@ -57,7 +57,7 @@ Establish a process for continuous model improvement by incorporating feedback, 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/news-analysis-ml.git
+   git clone https://github.com/ushakiranbudati/eznews.git
 ## Obtain API Key
 
 Follow the instructions on [News Catcher API](https://newscatcherapi.com/) to obtain your API key.
